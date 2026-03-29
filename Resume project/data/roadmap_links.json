@@ -1,0 +1,132 @@
+{
+  "Python": {
+    "link": "https://docs.python.org/3/tutorial/",
+    "level": "Beginner",
+    "duration": "4-6 weeks"
+  },
+  "JavaScript": {
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "level": "Beginner",
+    "duration": "4-8 weeks"
+  },
+  "TypeScript": {
+    "link": "https://www.typescriptlang.org/docs/",
+    "level": "Intermediate",
+    "duration": "3-5 weeks"
+  },
+  "React": {
+    "link": "https://react.dev/learn",
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "Node.js": {
+    "link": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+    "level": "Intermediate",
+    "duration": "3-6 weeks"
+  },
+  "Flask": {
+    "link": "https://flask.palletsprojects.com/en/stable/tutorial/",
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Django": {
+    "link": "https://docs.djangoproject.com/en/stable/intro/tutorial01/",
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "REST API": {
+    "link": "https://restfulapi.net/",
+    "level": "Beginner",
+    "duration": "2-3 weeks"
+  },
+  "SQL": {
+    "link": "https://www.w3schools.com/sql/",
+    "level": "Beginner",
+    "duration": "3-5 weeks"
+  },
+  "Docker": {
+    "link": "https://docs.docker.com/get-started/",
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Kubernetes": {
+    "link": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+    "level": "Intermediate",
+    "duration": "4-8 weeks"
+  },
+  "AWS": {
+    "link": "https://aws.amazon.com/getting-started/",
+    "level": "Intermediate",
+    "duration": "6-12 weeks"
+  },
+  "Azure": {
+    "link": "https://learn.microsoft.com/en-us/training/azure/",
+    "level": "Intermediate",
+    "duration": "6-12 weeks"
+  },
+  "Git": {
+    "link": "https://git-scm.com/book/en/v2",
+    "level": "Beginner",
+    "duration": "1-3 weeks"
+  },
+  "Linux": {
+    "link": "https://linuxjourney.com/",
+    "level": "Beginner",
+    "duration": "4-6 weeks"
+  },
+  "TensorFlow": {
+    "link": "https://www.tensorflow.org/tutorials",
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "PyTorch": {
+    "link": "https://pytorch.org/tutorials/",
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "Tableau": {
+    "link": "https://www.tableau.com/learn/training",
+    "level": "Beginner",
+    "duration": "3-5 weeks"
+  },
+  "Excel": {
+    "link": "https://support.microsoft.com/en-us/excel",
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Statistics": {
+    "link": "https://www.khanacademy.org/math/statistics-probability",
+    "level": "Beginner",
+    "duration": "4-8 weeks"
+  },
+  "CI/CD": {
+    "link": "https://www.atlassian.com/continuous-delivery",
+    "level": "Intermediate",
+    "duration": "3-6 weeks"
+  },
+  "HTML": {
+    "link": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "level": "Beginner",
+    "duration": "1-2 weeks"
+  },
+  "CSS": {
+    "link": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "level": "Beginner",
+    "duration": "2-4 weeks"
+  },
+  "Networking": {
+    "link": "https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/",
+    "level": "Intermediate",
+    "duration": "6-10 weeks"
+  },
+  "Data Structures": {
+    "link": "https://www.geeksforgeeks.org/data-structures/",
+    "level": "Beginner",
+    "duration": "6-10 weeks"
+  },
+  "Algorithms": {
+    "link": "https://www.khanacademy.org/computing/computer-science/algorithms",
+    "level": "Intermediate",
+    "duration": "8-12 weeks"
+  }
+}
